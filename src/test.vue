@@ -1,6 +1,6 @@
 <template>
     <div>
-        test edit
+        test edit test emoji
     </div>
 </template>
 
